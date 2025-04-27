@@ -1,5 +1,5 @@
 ---
-subtitle: Sowmya Bikkina
+subtitle: Sowmya Bikkina | Student ID - 42919
 format: 
   html:
     output-file: index.html
@@ -430,8 +430,6 @@ A 3.0% gap means a Pakistani girl watches her brother walk to school while she t
 
 The true measure of progress isn't in closing gaps, but in valuing every life equally - not just on paper, but in practice. When we see numbers, we must remember: behind each percentage point are real people, waiting.
 
-**Question:** What would it take to make these gaps history instead of statistics?
-
 ## Average Child Deprivation by Continent
 
 ```{python}
@@ -475,6 +473,7 @@ This variation underscores the limitations of evaluating deprivation solely thro
 
 Key Consideration:
 How can policymakers address deprivation disparities in ways that account for both local conditions and broader structural influences?
+
 ## Child Deprivation Trends Over Time
 
 ```{python}
@@ -621,5 +620,3 @@ Where children suffer, nations stagnate. In Africa, with life expectancy between
 Childhood should be sacred—a time of safety, discovery, and dreams. But for too many, it is a daily struggle against hunger, neglect, and despair. The data tells a story of inequality so deep that where a child is born determines whether they will flourish or merely survive. Some nations cradle their young with care, while others leave them to face the world alone.
 
 This is not just a problem to be solved, but a moral failure to be confronted. Every child abandoned to deprivation is a promise broken, a light dimmed before its time. We have the means to rewrite this story—not with pity, but with justice. The question is no longer what can be done, but why haven’t we done it yet?
-
-The world’s children are waiting. And time is running out.
