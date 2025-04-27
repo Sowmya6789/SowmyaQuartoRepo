@@ -1,5 +1,5 @@
 ---
-subtitle: Sowmya Bikkina | Student ID - 42919
+subtitle: Sri Sowmya Teja Bikkina | Student ID - 42919
 format: 
   html:
     output-file: index.html
