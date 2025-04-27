@@ -1,0 +1,598 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.71999979,Female,Units,%,Modelled,,,Total
+Afghanistan,AF,AFG,4,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.890000343,Male,Units,%,Modelled,,,Total
+Afghanistan,AF,AFG,4,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.849999905,Total,Units,%,Modelled,,,Total
+Albania,AL,ALB,8,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.74000001,Female,Units,%,Modelled,,,Total
+Albania,AL,ALB,8,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.029999971,Male,Units,%,Modelled,,,Total
+Albania,AL,ALB,8,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.890000105,Total,Units,%,Modelled,,,Total
+Algeria,DZ,DZA,12,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.799999952,Female,Units,%,Modelled,,,Total
+Algeria,DZ,DZA,12,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.190000057,Male,Units,%,Modelled,,,Total
+Algeria,DZ,DZA,12,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4,Total,Units,%,Modelled,,,Total
+American Samoa,AS,ASM,16,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.8399999738,Female,Units,%,Modelled,,,Total
+American Samoa,AS,ASM,16,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.9300000072,Male,Units,%,Modelled,,,Total
+American Samoa,AS,ASM,16,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.8799999952,Total,Units,%,Modelled,,,Total
+Andorra,AD,AND,20,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2,Female,Units,%,Modelled,,,Total
+Andorra,AD,AND,20,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.160000086,Male,Units,%,Modelled,,,Total
+Andorra,AD,AND,20,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.5999999049999998,Total,Units,%,Modelled,,,Total
+Angola,AO,AGO,24,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.019999981,Female,Units,%,Modelled,,,Total
+Angola,AO,AGO,24,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.260000229,Male,Units,%,Modelled,,,Total
+Angola,AO,AGO,24,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.639999866,Total,Units,%,Modelled,,,Total
+Antigua and Barbuda,AG,ATG,28,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.380000114,Female,Units,%,Modelled,,,Total
+Antigua and Barbuda,AG,ATG,28,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.7699999809999998,Male,Units,%,Modelled,,,Total
+Antigua and Barbuda,AG,ATG,28,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.079999924,Total,Units,%,Modelled,,,Total
+Argentina,AR,ARG,32,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.25999999,Female,Units,%,Modelled,,,Total
+Argentina,AR,ARG,32,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.140000105,Male,Units,%,Modelled,,,Total
+Argentina,AR,ARG,32,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.2300000190000002,Total,Units,%,Modelled,,,Total
+Armenia,AM,ARM,51,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.920000076,Female,Units,%,Modelled,,,Total
+Armenia,AM,ARM,51,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.4600000380000004,Male,Units,%,Modelled,,,Total
+Armenia,AM,ARM,51,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.7300000190000002,Total,Units,%,Modelled,,,Total
+Australia,AU,AUS,36,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.9100000262,Female,Units,%,Modelled,,,Total
+Australia,AU,AUS,36,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.170000076,Male,Units,%,Modelled,,,Total
+Australia,AU,AUS,36,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.559999943,Total,Units,%,Modelled,,,Total
+Austria,AT,AUT,40,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.590000033,Female,Units,%,Modelled,,,Total
+Austria,AT,AUT,40,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.2699999809999998,Male,Units,%,Modelled,,,Total
+Austria,AT,AUT,40,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.940000057,Total,Units,%,Modelled,,,Total
+Azerbaijan,AZ,AZE,31,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.839999914,Female,Units,%,Modelled,,,Total
+Azerbaijan,AZ,AZE,31,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.03000021,Male,Units,%,Modelled,,,Total
+Azerbaijan,AZ,AZE,31,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.010000229,Total,Units,%,Modelled,,,Total
+Bahamas,BS,BHS,44,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.680000067,Female,Units,%,Modelled,,,Total
+Bahamas,BS,BHS,44,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.920000076,Male,Units,%,Modelled,,,Total
+Bahamas,BS,BHS,44,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.799999952,Total,Units,%,Modelled,,,Total
+Bahrain,BH,BHR,48,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.449999809,Female,Units,%,Modelled,,,Total
+Bahrain,BH,BHR,48,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.730000019,Male,Units,%,Modelled,,,Total
+Bahrain,BH,BHR,48,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.099999905,Total,Units,%,Modelled,,,Total
+Bangladesh,BD,BGD,50,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,13.76000023,Female,Units,%,Modelled,,,Total
+Bangladesh,BD,BGD,50,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,18.549999239999998,Male,Units,%,Modelled,,,Total
+Bangladesh,BD,BGD,50,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,16.19000053,Total,Units,%,Modelled,,,Total
+Barbados,BB,BRB,52,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.050000191,Female,Units,%,Modelled,,,Total
+Barbados,BB,BRB,52,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.090000153,Male,Units,%,Modelled,,,Total
+Barbados,BB,BRB,52,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.559999943,Total,Units,%,Modelled,,,Total
+Belarus,BY,BLR,112,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.640000105,Female,Units,%,Modelled,,,Total
+Belarus,BY,BLR,112,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.640000105,Male,Units,%,Modelled,,,Total
+Belarus,BY,BLR,112,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.640000105,Total,Units,%,Modelled,,,Total
+Belgium,BE,BEL,56,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.220000029,Female,Units,%,Modelled,,,Total
+Belgium,BE,BEL,56,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.319999933,Male,Units,%,Modelled,,,Total
+Belgium,BE,BEL,56,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.2699999809999998,Total,Units,%,Modelled,,,Total
+Belize,BZ,BLZ,84,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.319999933,Female,Units,%,Modelled,,,Total
+Belize,BZ,BLZ,84,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.74000001,Male,Units,%,Modelled,,,Total
+Belize,BZ,BLZ,84,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.029999971,Total,Units,%,Modelled,,,Total
+Benin,BJ,BEN,204,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.25999999,Female,Units,%,Modelled,,,Total
+Benin,BJ,BEN,204,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.489999771,Male,Units,%,Modelled,,,Total
+Benin,BJ,BEN,204,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.909999847,Total,Units,%,Modelled,,,Total
+Bermuda,BM,BMU,60,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.090000153,Female,Units,%,Modelled,,,Total
+Bermuda,BM,BMU,60,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.690000057,Male,Units,%,Modelled,,,Total
+Bermuda,BM,BMU,60,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.400000095,Total,Units,%,Modelled,,,Total
+Bhutan,BT,BTN,64,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.269999981,Female,Units,%,Modelled,,,Total
+Bhutan,BT,BTN,64,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.320000172,Male,Units,%,Modelled,,,Total
+Bhutan,BT,BTN,64,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.320000172,Total,Units,%,Modelled,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.019999981,Female,Units,%,Modelled,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.409999967,Male,Units,%,Modelled,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.220000029,Total,Units,%,Modelled,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.130000114,Female,Units,%,Modelled,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.0399999619999996,Male,Units,%,Modelled,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.589999914,Total,Units,%,Modelled,,,Total
+Botswana,BW,BWA,72,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.96999979,Female,Units,%,Modelled,,,Total
+Botswana,BW,BWA,72,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.93999958,Male,Units,%,Modelled,,,Total
+Botswana,BW,BWA,72,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.479999542,Total,Units,%,Modelled,,,Total
+Brazil,BR,BRA,76,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.640000105,Female,Units,%,Modelled,,,Total
+Brazil,BR,BRA,76,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.680000067,Male,Units,%,Modelled,,,Total
+Brazil,BR,BRA,76,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.660000086,Total,Units,%,Modelled,,,Total
+Brunei,BN,BRN,96,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.930000067,Female,Units,%,Modelled,,,Total
+Brunei,BN,BRN,96,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.25,Male,Units,%,Modelled,,,Total
+Brunei,BN,BRN,96,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.609999895,Total,Units,%,Modelled,,,Total
+Bulgaria,BG,BGR,100,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.2699999809999998,Female,Units,%,Modelled,,,Total
+Bulgaria,BG,BGR,100,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.090000153,Male,Units,%,Modelled,,,Total
+Bulgaria,BG,BGR,100,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.6900000570000002,Total,Units,%,Modelled,,,Total
+Burkina Faso,BF,BFA,854,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.610000134,Female,Units,%,Modelled,,,Total
+Burkina Faso,BF,BFA,854,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,15.93000031,Male,Units,%,Modelled,,,Total
+Burkina Faso,BF,BFA,854,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.84000015,Total,Units,%,Modelled,,,Total
+Burundi,BI,BDI,108,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.3699998859999996,Female,Units,%,Modelled,,,Total
+Burundi,BI,BDI,108,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.859999657,Male,Units,%,Modelled,,,Total
+Burundi,BI,BDI,108,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.119999886,Total,Units,%,Modelled,,,Total
+Cape Verde,CV,CPV,132,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.06000042,Female,Units,%,Modelled,,,Total
+Cape Verde,CV,CPV,132,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.340000153,Male,Units,%,Modelled,,,Total
+Cape Verde,CV,CPV,132,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.18999958,Total,Units,%,Modelled,,,Total
+Cambodia,KH,KHM,116,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.5799999239999991,Female,Units,%,Modelled,,,Total
+Cambodia,KH,KHM,116,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.2899999619999996,Male,Units,%,Modelled,,,Total
+Cambodia,KH,KHM,116,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.920000076,Total,Units,%,Modelled,,,Total
+Cameroon,CM,CMR,120,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.24000001,Female,Units,%,Modelled,,,Total
+Cameroon,CM,CMR,120,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.230000019,Male,Units,%,Modelled,,,Total
+Cameroon,CM,CMR,120,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.739999771,Total,Units,%,Modelled,,,Total
+Canada,CA,CAN,124,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.9599999785,Female,Units,%,Modelled,,,Total
+Canada,CA,CAN,124,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.49000001,Male,Units,%,Modelled,,,Total
+Canada,CA,CAN,124,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.74000001,Total,Units,%,Modelled,,,Total
+Central African Republic,CF,CAF,140,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.309999943,Female,Units,%,Modelled,,,Total
+Central African Republic,CF,CAF,140,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.359999657,Male,Units,%,Modelled,,,Total
+Central African Republic,CF,CAF,140,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.849999905,Total,Units,%,Modelled,,,Total
+Chad,TD,TCD,148,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.229999542,Female,Units,%,Modelled,,,Total
+Chad,TD,TCD,148,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.15999985,Male,Units,%,Modelled,,,Total
+Chad,TD,TCD,148,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.720000267,Total,Units,%,Modelled,,,Total
+Chile,CL,CHL,152,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.5299999714,Female,Units,%,Modelled,,,Total
+Chile,CL,CHL,152,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.5,Male,Units,%,Modelled,,,Total
+Chile,CL,CHL,152,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.019999981,Total,Units,%,Modelled,,,Total
+China,CN,CHN,156,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.289999962,Female,Units,%,Modelled,,,Total
+China,CN,CHN,156,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.960000038,Male,Units,%,Modelled,,,Total
+China,CN,CHN,156,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.6500000950000002,Total,Units,%,Modelled,,,Total
+Colombia,CO,COL,170,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.669999957,Female,Units,%,Modelled,,,Total
+Colombia,CO,COL,170,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.5199999809999998,Male,Units,%,Modelled,,,Total
+Colombia,CO,COL,170,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.0999999049999998,Total,Units,%,Modelled,,,Total
+Comoros,KM,COM,174,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.3499999049999998,Female,Units,%,Modelled,,,Total
+Comoros,KM,COM,174,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.850000381,Male,Units,%,Modelled,,,Total
+Comoros,KM,COM,174,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.1300001140000004,Total,Units,%,Modelled,,,Total
+Congo,CG,COG,178,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.889999866,Female,Units,%,Modelled,,,Total
+Congo,CG,COG,178,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.640000343,Male,Units,%,Modelled,,,Total
+Congo,CG,COG,178,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.2899999619999996,Total,Units,%,Modelled,,,Total
+Cook Islands,CK,COK,184,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.5400000215,Female,Units,%,Modelled,,,Total
+Cook Islands,CK,COK,184,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.210000038,Male,Units,%,Modelled,,,Total
+Cook Islands,CK,COK,184,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.8799999952,Total,Units,%,Modelled,,,Total
+Costa Rica,CR,CRI,188,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.3099999429999998,Female,Units,%,Modelled,,,Total
+Costa Rica,CR,CRI,188,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.210000038,Male,Units,%,Modelled,,,Total
+Costa Rica,CR,CRI,188,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.7699999809999998,Total,Units,%,Modelled,,,Total
+Croatia,HR,HRV,191,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.799999952,Female,Units,%,Modelled,,,Total
+Croatia,HR,HRV,191,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.539999962,Male,Units,%,Modelled,,,Total
+Croatia,HR,HRV,191,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.669999957,Total,Units,%,Modelled,,,Total
+Cuba,CU,CUB,192,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.599999905,Female,Units,%,Modelled,,,Total
+Cuba,CU,CUB,192,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.21999979,Male,Units,%,Modelled,,,Total
+Cuba,CU,CUB,192,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.429999828,Total,Units,%,Modelled,,,Total
+Cyprus,CY,CYP,196,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.869999886,Female,Units,%,Modelled,,,Total
+Cyprus,CY,CYP,196,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.369999886,Male,Units,%,Modelled,,,Total
+Cyprus,CY,CYP,196,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.130000114,Total,Units,%,Modelled,,,Total
+Czech Republic,CZ,CZE,203,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.75999999,Female,Units,%,Modelled,,,Total
+Czech Republic,CZ,CZE,203,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.8499999049999998,Male,Units,%,Modelled,,,Total
+Czech Republic,CZ,CZE,203,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.319999933,Total,Units,%,Modelled,,,Total
+Ivory Coast,CI,CIV,384,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.9800000190000002,Female,Units,%,Modelled,,,Total
+Ivory Coast,CI,CIV,384,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.03999996,Male,Units,%,Modelled,,,Total
+Ivory Coast,CI,CIV,384,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.0399999619999996,Total,Units,%,Modelled,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.78000021,Female,Units,%,Modelled,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.53999996,Male,Units,%,Modelled,,,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.199999809,Total,Units,%,Modelled,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.28000021,Female,Units,%,Modelled,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.899999619,Male,Units,%,Modelled,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.590000153,Total,Units,%,Modelled,,,Total
+Denmark,DK,DNK,208,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.1900000570000002,Female,Units,%,Modelled,,,Total
+Denmark,DK,DNK,208,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.1900000570000002,Male,Units,%,Modelled,,,Total
+Denmark,DK,DNK,208,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.700000048,Total,Units,%,Modelled,,,Total
+Djibouti,DJ,DJI,262,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.400000095,Female,Units,%,Modelled,,,Total
+Djibouti,DJ,DJI,262,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.050000191,Male,Units,%,Modelled,,,Total
+Djibouti,DJ,DJI,262,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.239999771,Total,Units,%,Modelled,,,Total
+Dominica,DM,DMA,212,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.99000001,Female,Units,%,Modelled,,,Total
+Dominica,DM,DMA,212,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.21999979,Male,Units,%,Modelled,,,Total
+Dominica,DM,DMA,212,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.609999895,Total,Units,%,Modelled,,,Total
+Dominican Republic,DO,DOM,214,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.840000153,Female,Units,%,Modelled,,,Total
+Dominican Republic,DO,DOM,214,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.5399999619999996,Male,Units,%,Modelled,,,Total
+Dominican Republic,DO,DOM,214,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.179999828,Total,Units,%,Modelled,,,Total
+Ecuador,EC,ECU,218,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.720000029,Female,Units,%,Modelled,,,Total
+Ecuador,EC,ECU,218,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.319999933,Male,Units,%,Modelled,,,Total
+Ecuador,EC,ECU,218,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.529999971,Total,Units,%,Modelled,,,Total
+Egypt,EG,EGY,818,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.0599999429999998,Female,Units,%,Modelled,,,Total
+Egypt,EG,EGY,818,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.320000172,Male,Units,%,Modelled,,,Total
+Egypt,EG,EGY,818,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.220000029,Total,Units,%,Modelled,,,Total
+El Salvador,SV,SLV,222,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.4400000570000002,Female,Units,%,Modelled,,,Total
+El Salvador,SV,SLV,222,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.779999971,Male,Units,%,Modelled,,,Total
+El Salvador,SV,SLV,222,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.130000114,Total,Units,%,Modelled,,,Total
+Equatorial Guinea,GQ,GNQ,226,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.28000021,Female,Units,%,Modelled,,,Total
+Equatorial Guinea,GQ,GNQ,226,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.380000114,Male,Units,%,Modelled,,,Total
+Equatorial Guinea,GQ,GNQ,226,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.849999905,Total,Units,%,Modelled,,,Total
+Eritrea,ER,ERI,232,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.38000011,Female,Units,%,Modelled,,,Total
+Eritrea,ER,ERI,232,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,12.56000042,Male,Units,%,Modelled,,,Total
+Eritrea,ER,ERI,232,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.97000027,Total,Units,%,Modelled,,,Total
+Estonia,EE,EST,233,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.74000001,Female,Units,%,Modelled,,,Total
+Estonia,EE,EST,233,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.820000052,Male,Units,%,Modelled,,,Total
+Estonia,EE,EST,233,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.779999971,Total,Units,%,Modelled,,,Total
+Swaziland,SZ,SWZ,748,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.1900000570000002,Female,Units,%,Modelled,,,Total
+Swaziland,SZ,SWZ,748,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.340000153,Male,Units,%,Modelled,,,Total
+Swaziland,SZ,SWZ,748,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.7699999809999998,Total,Units,%,Modelled,,,Total
+Ethiopia,ET,ETH,231,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.850000381,Female,Units,%,Modelled,,,Total
+Ethiopia,ET,ETH,231,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,19.19000053,Male,Units,%,Modelled,,,Total
+Ethiopia,ET,ETH,231,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,14.600000380000001,Total,Units,%,Modelled,,,Total
+Fiji,FJ,FJI,242,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.49000001,Female,Units,%,Modelled,,,Total
+Fiji,FJ,FJI,242,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.429999828,Male,Units,%,Modelled,,,Total
+Fiji,FJ,FJI,242,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.46999979,Total,Units,%,Modelled,,,Total
+Finland,FI,FIN,246,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.340000033,Female,Units,%,Modelled,,,Total
+Finland,FI,FIN,246,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.319999933,Male,Units,%,Modelled,,,Total
+Finland,FI,FIN,246,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.840000033,Total,Units,%,Modelled,,,Total
+France,FR,FRA,250,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.25,Female,Units,%,Modelled,,,Total
+France,FR,FRA,250,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.900000095,Male,Units,%,Modelled,,,Total
+France,FR,FRA,250,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.609999895,Total,Units,%,Modelled,,,Total
+French Polynesia,PF,PYF,258,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.429999948,Female,Units,%,Modelled,,,Total
+French Polynesia,PF,PYF,258,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.710000038,Male,Units,%,Modelled,,,Total
+French Polynesia,PF,PYF,258,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.570000052,Total,Units,%,Modelled,,,Total
+Gabon,GA,GAB,266,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.300000191,Female,Units,%,Modelled,,,Total
+Gabon,GA,GAB,266,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.170000076,Male,Units,%,Modelled,,,Total
+Gabon,GA,GAB,266,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.739999771,Total,Units,%,Modelled,,,Total
+Gambia,GM,GMB,270,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.649999619,Female,Units,%,Modelled,,,Total
+Gambia,GM,GMB,270,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.22000027,Male,Units,%,Modelled,,,Total
+Gambia,GM,GMB,270,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.43999958,Total,Units,%,Modelled,,,Total
+Georgia,GE,GEO,268,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.950000048,Female,Units,%,Modelled,,,Total
+Georgia,GE,GEO,268,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.910000086,Male,Units,%,Modelled,,,Total
+Georgia,GE,GEO,268,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.930000067,Total,Units,%,Modelled,,,Total
+Germany,DE,DEU,276,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.399999976,Female,Units,%,Modelled,,,Total
+Germany,DE,DEU,276,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.170000076,Male,Units,%,Modelled,,,Total
+Germany,DE,DEU,276,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.799999952,Total,Units,%,Modelled,,,Total
+Ghana,GH,GHA,288,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.360000134,Female,Units,%,Modelled,,,Total
+Ghana,GH,GHA,288,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.31000042,Male,Units,%,Modelled,,,Total
+Ghana,GH,GHA,288,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.340000153,Total,Units,%,Modelled,,,Total
+Greece,GR,GRC,300,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.9700000286,Female,Units,%,Modelled,,,Total
+Greece,GR,GRC,300,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.50999999,Male,Units,%,Modelled,,,Total
+Greece,GR,GRC,300,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.25,Total,Units,%,Modelled,,,Total
+Greenland,GL,GRL,304,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.129999995,Female,Units,%,Modelled,,,Total
+Greenland,GL,GRL,304,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.330000043,Male,Units,%,Modelled,,,Total
+Greenland,GL,GRL,304,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.230000019,Total,Units,%,Modelled,,,Total
+Grenada,GD,GRD,308,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.110000134,Female,Units,%,Modelled,,,Total
+Grenada,GD,GRD,308,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.650000095,Male,Units,%,Modelled,,,Total
+Grenada,GD,GRD,308,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.3800001140000004,Total,Units,%,Modelled,,,Total
+Guatemala,GT,GTM,320,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.610000014,Female,Units,%,Modelled,,,Total
+Guatemala,GT,GTM,320,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.74000001,Male,Units,%,Modelled,,,Total
+Guatemala,GT,GTM,320,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.180000067,Total,Units,%,Modelled,,,Total
+Guinea,GN,GIN,324,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.510000229,Female,Units,%,Modelled,,,Total
+Guinea,GN,GIN,324,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.72999954,Male,Units,%,Modelled,,,Total
+Guinea,GN,GIN,324,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.159999847,Total,Units,%,Modelled,,,Total
+Guinea-Bissau,GW,GNB,624,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.090000153,Female,Units,%,Modelled,,,Total
+Guinea-Bissau,GW,GNB,624,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.19999981,Male,Units,%,Modelled,,,Total
+Guinea-Bissau,GW,GNB,624,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.679999828,Total,Units,%,Modelled,,,Total
+Guyana,GY,GUY,328,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.610000134,Female,Units,%,Modelled,,,Total
+Guyana,GY,GUY,328,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.900000095,Male,Units,%,Modelled,,,Total
+Guyana,GY,GUY,328,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.760000229,Total,Units,%,Modelled,,,Total
+Haiti,HT,HTI,332,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.7300000190000002,Female,Units,%,Modelled,,,Total
+Haiti,HT,HTI,332,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.599999905,Male,Units,%,Modelled,,,Total
+Haiti,HT,HTI,332,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.170000076,Total,Units,%,Modelled,,,Total
+Honduras,HN,HND,340,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.170000076,Female,Units,%,Modelled,,,Total
+Honduras,HN,HND,340,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.25999999,Male,Units,%,Modelled,,,Total
+Honduras,HN,HND,340,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.7300000190000002,Total,Units,%,Modelled,,,Total
+Hungary,HU,HUN,348,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.7699999809999998,Female,Units,%,Modelled,,,Total
+Hungary,HU,HUN,348,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.369999886,Male,Units,%,Modelled,,,Total
+Hungary,HU,HUN,348,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.069999933,Total,Units,%,Modelled,,,Total
+Iceland,IS,ISL,352,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.669999957,Female,Units,%,Modelled,,,Total
+Iceland,IS,ISL,352,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.529999971,Male,Units,%,Modelled,,,Total
+Iceland,IS,ISL,352,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.109999895,Total,Units,%,Modelled,,,Total
+India,IN,IND,356,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,20.200000760000002,Female,Units,%,Modelled,,,Total
+India,IN,IND,356,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,21.70999908,Male,Units,%,Modelled,,,Total
+India,IN,IND,356,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,20.98999977,Total,Units,%,Modelled,,,Total
+Indonesia,ID,IDN,360,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.5399999619999996,Female,Units,%,Modelled,,,Total
+Indonesia,ID,IDN,360,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.68999958,Male,Units,%,Modelled,,,Total
+Indonesia,ID,IDN,360,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.149999619,Total,Units,%,Modelled,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.949999809,Female,Units,%,Modelled,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.14000034,Male,Units,%,Modelled,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.05000019,Total,Units,%,Modelled,,,Total
+Iraq,IQ,IRQ,368,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.5999999049999998,Female,Units,%,Modelled,,,Total
+Iraq,IQ,IRQ,368,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.400000095,Male,Units,%,Modelled,,,Total
+Iraq,IQ,IRQ,368,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.5199999809999998,Total,Units,%,Modelled,,,Total
+Ireland,IE,IRL,372,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.8600000143,Female,Units,%,Modelled,,,Total
+Ireland,IE,IRL,372,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.029999971,Male,Units,%,Modelled,,,Total
+Ireland,IE,IRL,372,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.460000038,Total,Units,%,Modelled,,,Total
+Israel,IL,ISR,376,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.549999952,Female,Units,%,Modelled,,,Total
+Israel,IL,ISR,376,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.470000029,Male,Units,%,Modelled,,,Total
+Israel,IL,ISR,376,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.0199999809999998,Total,Units,%,Modelled,,,Total
+Italy,IT,ITA,380,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.659999967,Female,Units,%,Modelled,,,Total
+Italy,IT,ITA,380,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.6500000950000002,Male,Units,%,Modelled,,,Total
+Italy,IT,ITA,380,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.170000076,Total,Units,%,Modelled,,,Total
+Jamaica,JM,JAM,388,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.119999886,Female,Units,%,Modelled,,,Total
+Jamaica,JM,JAM,388,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.039999962,Male,Units,%,Modelled,,,Total
+Jamaica,JM,JAM,388,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.569999933,Total,Units,%,Modelled,,,Total
+Japan,JP,JPN,392,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.529999971,Female,Units,%,Modelled,,,Total
+Japan,JP,JPN,392,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.049999952,Male,Units,%,Modelled,,,Total
+Japan,JP,JPN,392,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.3099999429999998,Total,Units,%,Modelled,,,Total
+Jordan,JO,JOR,400,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.119999886,Female,Units,%,Modelled,,,Total
+Jordan,JO,JOR,400,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.859999895,Male,Units,%,Modelled,,,Total
+Jordan,JO,JOR,400,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.5,Total,Units,%,Modelled,,,Total
+Kazakhstan,KZ,KAZ,398,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.769999981,Female,Units,%,Modelled,,,Total
+Kazakhstan,KZ,KAZ,398,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.670000076,Male,Units,%,Modelled,,,Total
+Kazakhstan,KZ,KAZ,398,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.230000019,Total,Units,%,Modelled,,,Total
+Kenya,KE,KEN,404,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.7899999619999996,Female,Units,%,Modelled,,,Total
+Kenya,KE,KEN,404,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.61999989,Male,Units,%,Modelled,,,Total
+Kenya,KE,KEN,404,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.210000038,Total,Units,%,Modelled,,,Total
+Kiribati,KI,KIR,296,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.6499999762,Female,Units,%,Modelled,,,Total
+Kiribati,KI,KIR,296,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.450000048,Male,Units,%,Modelled,,,Total
+Kiribati,KI,KIR,296,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.049999952,Total,Units,%,Modelled,,,Total
+Kuwait,KW,KWT,414,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.75999999,Female,Units,%,Modelled,,,Total
+Kuwait,KW,KWT,414,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.589999914,Male,Units,%,Modelled,,,Total
+Kuwait,KW,KWT,414,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.119999886,Total,Units,%,Modelled,,,Total
+Kyrgyzstan,KG,KGZ,417,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.670000076,Female,Units,%,Modelled,,,Total
+Kyrgyzstan,KG,KGZ,417,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.380000114,Male,Units,%,Modelled,,,Total
+Kyrgyzstan,KG,KGZ,417,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.5199999809999998,Total,Units,%,Modelled,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.449999809,Female,Units,%,Modelled,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.5,Male,Units,%,Modelled,,,Total
+Lao People's Democratic Republic,LA,LAO,418,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.510000229,Total,Units,%,Modelled,,,Total
+Latvia,LV,LVA,428,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.909999967,Female,Units,%,Modelled,,,Total
+Latvia,LV,LVA,428,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.980000019,Male,Units,%,Modelled,,,Total
+Latvia,LV,LVA,428,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.950000048,Total,Units,%,Modelled,,,Total
+Lebanon,LB,LBN,422,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.919999957,Female,Units,%,Modelled,,,Total
+Lebanon,LB,LBN,422,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.6500000950000002,Male,Units,%,Modelled,,,Total
+Lebanon,LB,LBN,422,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.289999962,Total,Units,%,Modelled,,,Total
+Lesotho,LS,LSO,426,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.74000001,Female,Units,%,Modelled,,,Total
+Lesotho,LS,LSO,426,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.420000076,Male,Units,%,Modelled,,,Total
+Lesotho,LS,LSO,426,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.070000172,Total,Units,%,Modelled,,,Total
+Liberia,LR,LBR,430,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.879999995,Female,Units,%,Modelled,,,Total
+Liberia,LR,LBR,430,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.06000042,Male,Units,%,Modelled,,,Total
+Liberia,LR,LBR,430,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.010000229,Total,Units,%,Modelled,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.380000114,Female,Units,%,Modelled,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.03000021,Male,Units,%,Modelled,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.739999771,Total,Units,%,Modelled,,,Total
+Lithuania,LT,LTU,440,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.8099999429999998,Female,Units,%,Modelled,,,Total
+Lithuania,LT,LTU,440,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.50999999,Male,Units,%,Modelled,,,Total
+Lithuania,LT,LTU,440,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.660000086,Total,Units,%,Modelled,,,Total
+Luxembourg,LU,LUX,442,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.580000043,Female,Units,%,Modelled,,,Total
+Luxembourg,LU,LUX,442,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.2699999809999998,Male,Units,%,Modelled,,,Total
+Luxembourg,LU,LUX,442,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.929999948,Total,Units,%,Modelled,,,Total
+Madagascar,MG,MDG,450,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.820000172,Female,Units,%,Modelled,,,Total
+Madagascar,MG,MDG,450,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.859999657,Male,Units,%,Modelled,,,Total
+Madagascar,MG,MDG,450,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.360000134,Total,Units,%,Modelled,,,Total
+Malawi,MW,MWI,454,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.339999914,Female,Units,%,Modelled,,,Total
+Malawi,MW,MWI,454,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.070000172,Male,Units,%,Modelled,,,Total
+Malawi,MW,MWI,454,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.200000048,Total,Units,%,Modelled,,,Total
+Malaysia,MY,MYS,458,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.110000134,Female,Units,%,Modelled,,,Total
+Malaysia,MY,MYS,458,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.3299999239999991,Male,Units,%,Modelled,,,Total
+Malaysia,MY,MYS,458,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.25,Total,Units,%,Modelled,,,Total
+Maldives,MV,MDV,462,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,13.76000023,Female,Units,%,Modelled,,,Total
+Maldives,MV,MDV,462,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.82999992,Male,Units,%,Modelled,,,Total
+Maldives,MV,MDV,462,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,12.22000027,Total,Units,%,Modelled,,,Total
+Mali,ML,MLI,466,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.199999809,Female,Units,%,Modelled,,,Total
+Mali,ML,MLI,466,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,14.68000031,Male,Units,%,Modelled,,,Total
+Mali,ML,MLI,466,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.989999771,Total,Units,%,Modelled,,,Total
+Malta,MT,MLT,470,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.860000014,Female,Units,%,Modelled,,,Total
+Malta,MT,MLT,470,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.8099999429999998,Male,Units,%,Modelled,,,Total
+Malta,MT,MLT,470,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.3499999049999998,Total,Units,%,Modelled,,,Total
+Marshall Islands,MH,MHL,584,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.25999999,Female,Units,%,Modelled,,,Total
+Marshall Islands,MH,MHL,584,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.710000038,Male,Units,%,Modelled,,,Total
+Marshall Islands,MH,MHL,584,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.529999971,Total,Units,%,Modelled,,,Total
+Mauritania,MR,MRT,478,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.840000153,Female,Units,%,Modelled,,,Total
+Mauritania,MR,MRT,478,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,14.09000015,Male,Units,%,Modelled,,,Total
+Mauritania,MR,MRT,478,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10,Total,Units,%,Modelled,,,Total
+Mauritius,MU,MUS,480,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.340000153,Female,Units,%,Modelled,,,Total
+Mauritius,MU,MUS,480,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.960000038,Male,Units,%,Modelled,,,Total
+Mauritius,MU,MUS,480,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.159999847,Total,Units,%,Modelled,,,Total
+Mexico,MX,MEX,484,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.789999962,Female,Units,%,Modelled,,,Total
+Mexico,MX,MEX,484,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.6900000570000002,Male,Units,%,Modelled,,,Total
+Mexico,MX,MEX,484,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.24000001,Total,Units,%,Modelled,,,Total
+"Micronesia, Federated States of",FM,FSM,583,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.6399999857,Female,Units,%,Modelled,,,Total
+"Micronesia, Federated States of",FM,FSM,583,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.269999981,Male,Units,%,Modelled,,,Total
+"Micronesia, Federated States of",FM,FSM,583,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.9599999785,Total,Units,%,Modelled,,,Total
+Mongolia,MN,MNG,496,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.880000114,Female,Units,%,Modelled,,,Total
+Mongolia,MN,MNG,496,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.5,Male,Units,%,Modelled,,,Total
+Mongolia,MN,MNG,496,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.720000029,Total,Units,%,Modelled,,,Total
+Montenegro,ME,MNE,499,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.140000105,Female,Units,%,Modelled,,,Total
+Montenegro,ME,MNE,499,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.369999886,Male,Units,%,Modelled,,,Total
+Montenegro,ME,MNE,499,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.25999999,Total,Units,%,Modelled,,,Total
+Morocco,MA,MAR,504,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.9400000570000002,Female,Units,%,Modelled,,,Total
+Morocco,MA,MAR,504,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.96999979,Male,Units,%,Modelled,,,Total
+Morocco,MA,MAR,504,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.970000029,Total,Units,%,Modelled,,,Total
+Mozambique,MZ,MOZ,508,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.570000172,Female,Units,%,Modelled,,,Total
+Mozambique,MZ,MOZ,508,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.699999809,Male,Units,%,Modelled,,,Total
+Mozambique,MZ,MOZ,508,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.6300001140000004,Total,Units,%,Modelled,,,Total
+Myanmar,MM,MMR,104,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.25,Female,Units,%,Modelled,,,Total
+Myanmar,MM,MMR,104,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,14.06999969,Male,Units,%,Modelled,,,Total
+Myanmar,MM,MMR,104,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.22999954,Total,Units,%,Modelled,,,Total
+Namibia,,NAM,516,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.539999962,Female,Units,%,Modelled,,,Total
+Namibia,,NAM,516,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.609999657,Male,Units,%,Modelled,,,Total
+Namibia,,NAM,516,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.569999695,Total,Units,%,Modelled,,,Total
+Nauru,NR,NRU,520,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.4699999988,Female,Units,%,Modelled,,,Total
+Nauru,NR,NRU,520,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.279999971,Male,Units,%,Modelled,,,Total
+Nauru,NR,NRU,520,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.8899999857,Total,Units,%,Modelled,,,Total
+Nepal,NP,NPL,524,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.859999657,Female,Units,%,Modelled,,,Total
+Nepal,NP,NPL,524,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,12.19999981,Male,Units,%,Modelled,,,Total
+Nepal,NP,NPL,524,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.56000042,Total,Units,%,Modelled,,,Total
+Netherlands,NL,NLD,528,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.190000057,Female,Units,%,Modelled,,,Total
+Netherlands,NL,NLD,528,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.50999999,Male,Units,%,Modelled,,,Total
+Netherlands,NL,NLD,528,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.350000024,Total,Units,%,Modelled,,,Total
+New Zealand,NZ,NZL,554,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.4499999881,Female,Units,%,Modelled,,,Total
+New Zealand,NZ,NZL,554,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.429999948,Male,Units,%,Modelled,,,Total
+New Zealand,NZ,NZL,554,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.9499999881,Total,Units,%,Modelled,,,Total
+Nicaragua,NI,NIC,558,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.370000005,Female,Units,%,Modelled,,,Total
+Nicaragua,NI,NIC,558,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.25,Male,Units,%,Modelled,,,Total
+Nicaragua,NI,NIC,558,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.319999933,Total,Units,%,Modelled,,,Total
+Niger,NE,NER,562,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.48999977,Female,Units,%,Modelled,,,Total
+Niger,NE,NER,562,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,21.549999239999998,Male,Units,%,Modelled,,,Total
+Niger,NE,NER,562,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,16.11000061,Total,Units,%,Modelled,,,Total
+Nigeria,NG,NGA,566,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.600000381,Female,Units,%,Modelled,,,Total
+Nigeria,NG,NGA,566,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,18.54000092,Male,Units,%,Modelled,,,Total
+Nigeria,NG,NGA,566,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,14.14000034,Total,Units,%,Modelled,,,Total
+Niue,NU,NIU,570,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.5500000119,Female,Units,%,Modelled,,,Total
+Niue,NU,NIU,570,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.9499999881,Male,Units,%,Modelled,,,Total
+Niue,NU,NIU,570,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.7400000095,Total,Units,%,Modelled,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.1199998859999996,Female,Units,%,Modelled,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.75,Male,Units,%,Modelled,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.440000057,Total,Units,%,Modelled,,,Total
+Norway,NO,NOR,578,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.8700000048,Female,Units,%,Modelled,,,Total
+Norway,NO,NOR,578,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.069999933,Male,Units,%,Modelled,,,Total
+Norway,NO,NOR,578,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.49000001,Total,Units,%,Modelled,,,Total
+Oman,OM,OMN,512,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.510000229,Female,Units,%,Modelled,,,Total
+Oman,OM,OMN,512,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.179999828,Male,Units,%,Modelled,,,Total
+Oman,OM,OMN,512,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.349999905,Total,Units,%,Modelled,,,Total
+Pakistan,PK,PAK,586,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,13.89000034,Female,Units,%,Modelled,,,Total
+Pakistan,PK,PAK,586,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,18.87999916,Male,Units,%,Modelled,,,Total
+Pakistan,PK,PAK,586,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,16.450000760000002,Total,Units,%,Modelled,,,Total
+Palau,PW,PLW,585,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.129999995,Female,Units,%,Modelled,,,Total
+Palau,PW,PLW,585,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.3099999429999998,Male,Units,%,Modelled,,,Total
+Palau,PW,PLW,585,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.74000001,Total,Units,%,Modelled,,,Total
+Panama,PA,PAN,591,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.74000001,Female,Units,%,Modelled,,,Total
+Panama,PA,PAN,591,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.799999952,Male,Units,%,Modelled,,,Total
+Panama,PA,PAN,591,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.279999971,Total,Units,%,Modelled,,,Total
+Papua New Guinea,PG,PNG,598,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.9900000095,Female,Units,%,Modelled,,,Total
+Papua New Guinea,PG,PNG,598,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.920000076,Male,Units,%,Modelled,,,Total
+Papua New Guinea,PG,PNG,598,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.99000001,Total,Units,%,Modelled,,,Total
+Paraguay,PY,PRY,600,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.460000038,Female,Units,%,Modelled,,,Total
+Paraguay,PY,PRY,600,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.029999971,Male,Units,%,Modelled,,,Total
+Paraguay,PY,PRY,600,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.25999999,Total,Units,%,Modelled,,,Total
+Peru,PE,PER,604,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.8500000238,Female,Units,%,Modelled,,,Total
+Peru,PE,PER,604,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.909999967,Male,Units,%,Modelled,,,Total
+Peru,PE,PER,604,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.389999986,Total,Units,%,Modelled,,,Total
+Philippines,PH,PHL,608,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.470000267,Female,Units,%,Modelled,,,Total
+Philippines,PH,PHL,608,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.53999996,Male,Units,%,Modelled,,,Total
+Philippines,PH,PHL,608,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.06000042,Total,Units,%,Modelled,,,Total
+Poland,PL,POL,616,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.00999999,Female,Units,%,Modelled,,,Total
+Poland,PL,POL,616,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.859999895,Male,Units,%,Modelled,,,Total
+Poland,PL,POL,616,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.9400000570000002,Total,Units,%,Modelled,,,Total
+Portugal,PT,PRT,620,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.419999957,Female,Units,%,Modelled,,,Total
+Portugal,PT,PRT,620,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.5999999049999998,Male,Units,%,Modelled,,,Total
+Portugal,PT,PRT,620,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.0199999809999998,Total,Units,%,Modelled,,,Total
+Puerto Rico,PR,PRI,630,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.3499999049999998,Female,Units,%,Modelled,,,Total
+Puerto Rico,PR,PRI,630,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.75,Male,Units,%,Modelled,,,Total
+Puerto Rico,PR,PRI,630,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.059999943,Total,Units,%,Modelled,,,Total
+Qatar,QA,QAT,634,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.079999924,Female,Units,%,Modelled,,,Total
+Qatar,QA,QAT,634,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.5,Male,Units,%,Modelled,,,Total
+Qatar,QA,QAT,634,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.7899999619999996,Total,Units,%,Modelled,,,Total
+South Korea,KR,KOR,410,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.170000076,Female,Units,%,Modelled,,,Total
+South Korea,KR,KOR,410,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.0999999049999998,Male,Units,%,Modelled,,,Total
+South Korea,KR,KOR,410,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.140000105,Total,Units,%,Modelled,,,Total
+"Moldova, Republic of",MD,MDA,498,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.859999895,Female,Units,%,Modelled,,,Total
+"Moldova, Republic of",MD,MDA,498,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.75999999,Male,Units,%,Modelled,,,Total
+"Moldova, Republic of",MD,MDA,498,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.299999952,Total,Units,%,Modelled,,,Total
+Romania,RO,ROU,642,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.679999828,Female,Units,%,Modelled,,,Total
+Romania,RO,ROU,642,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.190000057,Male,Units,%,Modelled,,,Total
+Romania,RO,ROU,642,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.940000057,Total,Units,%,Modelled,,,Total
+Russian Federation,RU,RUS,643,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.640000105,Female,Units,%,Modelled,,,Total
+Russian Federation,RU,RUS,643,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.0599999429999998,Male,Units,%,Modelled,,,Total
+Russian Federation,RU,RUS,643,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.339999914,Total,Units,%,Modelled,,,Total
+Rwanda,RW,RWA,646,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.460000038,Female,Units,%,Modelled,,,Total
+Rwanda,RW,RWA,646,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.489999771,Male,Units,%,Modelled,,,Total
+Rwanda,RW,RWA,646,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.489999771,Total,Units,%,Modelled,,,Total
+Saint Kitts and Nevis,KN,KNA,659,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.7699999809999998,Female,Units,%,Modelled,,,Total
+Saint Kitts and Nevis,KN,KNA,659,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.599999905,Male,Units,%,Modelled,,,Total
+Saint Kitts and Nevis,KN,KNA,659,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.680000067,Total,Units,%,Modelled,,,Total
+Saint Lucia,LC,LCA,662,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.9400000570000002,Female,Units,%,Modelled,,,Total
+Saint Lucia,LC,LCA,662,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.889999866,Male,Units,%,Modelled,,,Total
+Saint Lucia,LC,LCA,662,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.9400000570000002,Total,Units,%,Modelled,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.710000038,Female,Units,%,Modelled,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.720000029,Male,Units,%,Modelled,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.2300000190000002,Total,Units,%,Modelled,,,Total
+Samoa,WS,WSM,882,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.7400000095,Female,Units,%,Modelled,,,Total
+Samoa,WS,WSM,882,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.379999995,Male,Units,%,Modelled,,,Total
+Samoa,WS,WSM,882,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.070000052,Total,Units,%,Modelled,,,Total
+Sao Tome and Principe,ST,STP,678,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.130000114,Female,Units,%,Modelled,,,Total
+Sao Tome and Principe,ST,STP,678,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.239999771,Male,Units,%,Modelled,,,Total
+Sao Tome and Principe,ST,STP,678,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.679999828,Total,Units,%,Modelled,,,Total
+Saudi Arabia,SA,SAU,682,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.23999977,Female,Units,%,Modelled,,,Total
+Saudi Arabia,SA,SAU,682,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.519999981,Male,Units,%,Modelled,,,Total
+Saudi Arabia,SA,SAU,682,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.340000153,Total,Units,%,Modelled,,,Total
+Senegal,SN,SEN,686,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.149999619999999,Female,Units,%,Modelled,,,Total
+Senegal,SN,SEN,686,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,21.37999916,Male,Units,%,Modelled,,,Total
+Senegal,SN,SEN,686,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,16.31999969,Total,Units,%,Modelled,,,Total
+Serbia,RS,SRB,688,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.950000048,Female,Units,%,Modelled,,,Total
+Serbia,RS,SRB,688,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.909999967,Male,Units,%,Modelled,,,Total
+Serbia,RS,SRB,688,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.929999948,Total,Units,%,Modelled,,,Total
+Seychelles,SC,SYC,690,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.28000021,Female,Units,%,Modelled,,,Total
+Seychelles,SC,SYC,690,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.179999828,Male,Units,%,Modelled,,,Total
+Seychelles,SC,SYC,690,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.739999771,Total,Units,%,Modelled,,,Total
+Sierra Leone,SL,SLE,694,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.75,Female,Units,%,Modelled,,,Total
+Sierra Leone,SL,SLE,694,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.059999943,Male,Units,%,Modelled,,,Total
+Sierra Leone,SL,SLE,694,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.410000086,Total,Units,%,Modelled,,,Total
+Singapore,SG,SGP,702,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.859999895,Female,Units,%,Modelled,,,Total
+Singapore,SG,SGP,702,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.369999886,Male,Units,%,Modelled,,,Total
+Singapore,SG,SGP,702,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.119999886,Total,Units,%,Modelled,,,Total
+Slovakia,SK,SVK,703,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.380000114,Female,Units,%,Modelled,,,Total
+Slovakia,SK,SVK,703,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.74000001,Male,Units,%,Modelled,,,Total
+Slovakia,SK,SVK,703,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.5599999429999998,Total,Units,%,Modelled,,,Total
+Slovenia,SI,SVN,705,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.700000048,Female,Units,%,Modelled,,,Total
+Slovenia,SI,SVN,705,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.079999924,Male,Units,%,Modelled,,,Total
+Slovenia,SI,SVN,705,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.889999986,Total,Units,%,Modelled,,,Total
+Solomon Islands,SB,SLB,90,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.029999971,Female,Units,%,Modelled,,,Total
+Solomon Islands,SB,SLB,90,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.6900000570000002,Male,Units,%,Modelled,,,Total
+Solomon Islands,SB,SLB,90,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.889999986,Total,Units,%,Modelled,,,Total
+Somalia,SO,SOM,706,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.480000019,Female,Units,%,Modelled,,,Total
+Somalia,SO,SOM,706,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.760000229,Male,Units,%,Modelled,,,Total
+Somalia,SO,SOM,706,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.139999866,Total,Units,%,Modelled,,,Total
+South Africa,ZA,ZAF,710,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.769999981,Female,Units,%,Modelled,,,Total
+South Africa,ZA,ZAF,710,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.800000191,Male,Units,%,Modelled,,,Total
+South Africa,ZA,ZAF,710,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.319999933,Total,Units,%,Modelled,,,Total
+South Sudan,SS,SSD,728,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.409999847,Female,Units,%,Modelled,,,Total
+South Sudan,SS,SSD,728,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.390000343,Male,Units,%,Modelled,,,Total
+South Sudan,SS,SSD,728,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.920000076,Total,Units,%,Modelled,,,Total
+Spain,ES,ESP,724,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.8999999762,Female,Units,%,Modelled,,,Total
+Spain,ES,ESP,724,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.039999962,Male,Units,%,Modelled,,,Total
+Spain,ES,ESP,724,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.49000001,Total,Units,%,Modelled,,,Total
+Sri Lanka,LK,LKA,144,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,16.40999985,Female,Units,%,Modelled,,,Total
+Sri Lanka,LK,LKA,144,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,17.88999939,Male,Units,%,Modelled,,,Total
+Sri Lanka,LK,LKA,144,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,17.15999985,Total,Units,%,Modelled,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.089999914,Female,Units,%,Modelled,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.340000153,Male,Units,%,Modelled,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.720000029,Total,Units,%,Modelled,,,Total
+Sudan,SD,SDN,736,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,11.71000004,Female,Units,%,Modelled,,,Total
+Sudan,SD,SDN,736,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,16.97999954,Male,Units,%,Modelled,,,Total
+Sudan,SD,SDN,736,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,14.38000011,Total,Units,%,Modelled,,,Total
+Suriname,SR,SUR,740,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.409999847,Female,Units,%,Modelled,,,Total
+Suriname,SR,SUR,740,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.320000172,Male,Units,%,Modelled,,,Total
+Suriname,SR,SUR,740,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.860000134,Total,Units,%,Modelled,,,Total
+Sweden,SE,SWE,752,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.299999952,Female,Units,%,Modelled,,,Total
+Sweden,SE,SWE,752,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.220000029,Male,Units,%,Modelled,,,Total
+Sweden,SE,SWE,752,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.779999971,Total,Units,%,Modelled,,,Total
+Switzerland,CH,CHE,756,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.570000052,Female,Units,%,Modelled,,,Total
+Switzerland,CH,CHE,756,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.75,Male,Units,%,Modelled,,,Total
+Switzerland,CH,CHE,756,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.659999967,Total,Units,%,Modelled,,,Total
+Syrian Arab Republic,SY,SYR,760,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.400000095,Female,Units,%,Modelled,,,Total
+Syrian Arab Republic,SY,SYR,760,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.599999905,Male,Units,%,Modelled,,,Total
+Syrian Arab Republic,SY,SYR,760,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.019999981,Total,Units,%,Modelled,,,Total
+Tajikistan,TJ,TJK,762,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.4600000380000004,Female,Units,%,Modelled,,,Total
+Tajikistan,TJ,TJK,762,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.69999981,Male,Units,%,Modelled,,,Total
+Tajikistan,TJ,TJK,762,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.149999619,Total,Units,%,Modelled,,,Total
+Thailand,TH,THA,764,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.760000229,Female,Units,%,Modelled,,,Total
+Thailand,TH,THA,764,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.550000191,Male,Units,%,Modelled,,,Total
+Thailand,TH,THA,764,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.199999809,Total,Units,%,Modelled,,,Total
+Timor-Leste,TL,TLS,626,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,12.97999954,Female,Units,%,Modelled,,,Total
+Timor-Leste,TL,TLS,626,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,21.31999969,Male,Units,%,Modelled,,,Total
+Timor-Leste,TL,TLS,626,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,17.29000092,Total,Units,%,Modelled,,,Total
+Togo,TG,TGO,768,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.089999914,Female,Units,%,Modelled,,,Total
+Togo,TG,TGO,768,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.730000019,Male,Units,%,Modelled,,,Total
+Togo,TG,TGO,768,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.429999828,Total,Units,%,Modelled,,,Total
+Tokelau,TK,TKL,772,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.7400000095,Female,Units,%,Modelled,,,Total
+Tokelau,TK,TKL,772,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.330000043,Male,Units,%,Modelled,,,Total
+Tokelau,TK,TKL,772,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.039999962,Total,Units,%,Modelled,,,Total
+Tonga,TO,TON,776,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.2199999988,Female,Units,%,Modelled,,,Total
+Tonga,TO,TON,776,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.7599999905,Male,Units,%,Modelled,,,Total
+Tonga,TO,TON,776,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.5,Total,Units,%,Modelled,,,Total
+Trinidad and Tobago,TT,TTO,780,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.119999886,Female,Units,%,Modelled,,,Total
+Trinidad and Tobago,TT,TTO,780,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.5,Male,Units,%,Modelled,,,Total
+Trinidad and Tobago,TT,TTO,780,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.3299999239999991,Total,Units,%,Modelled,,,Total
+Tunisia,TN,TUN,788,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.660000086,Female,Units,%,Modelled,,,Total
+Tunisia,TN,TUN,788,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.940000057,Male,Units,%,Modelled,,,Total
+Tunisia,TN,TUN,788,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.829999924,Total,Units,%,Modelled,,,Total
+Turkmenistan,TM,TKM,795,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.860000134,Female,Units,%,Modelled,,,Total
+Turkmenistan,TM,TKM,795,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.739999771,Male,Units,%,Modelled,,,Total
+Turkmenistan,TM,TKM,795,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.309999943,Total,Units,%,Modelled,,,Total
+Tuvalu,TV,TUV,798,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.6800000072,Female,Units,%,Modelled,,,Total
+Tuvalu,TV,TUV,798,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.6500000950000002,Male,Units,%,Modelled,,,Total
+Tuvalu,TV,TUV,798,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.720000029,Total,Units,%,Modelled,,,Total
+Turkey,TR,TUR,792,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.75999999,Female,Units,%,Modelled,,,Total
+Turkey,TR,TUR,792,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.210000038,Male,Units,%,Modelled,,,Total
+Turkey,TR,TUR,792,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.99000001,Total,Units,%,Modelled,,,Total
+Uganda,UG,UGA,800,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.570000172,Female,Units,%,Modelled,,,Total
+Uganda,UG,UGA,800,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.539999962,Male,Units,%,Modelled,,,Total
+Uganda,UG,UGA,800,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.059999943,Total,Units,%,Modelled,,,Total
+Ukraine,UA,UKR,804,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.849999905,Female,Units,%,Modelled,,,Total
+Ukraine,UA,UKR,804,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,6.010000229,Male,Units,%,Modelled,,,Total
+Ukraine,UA,UKR,804,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.929999828,Total,Units,%,Modelled,,,Total
+United Arab Emirates,AE,ARE,784,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.8099999429999998,Female,Units,%,Modelled,,,Total
+United Arab Emirates,AE,ARE,784,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.050000191,Male,Units,%,Modelled,,,Total
+United Arab Emirates,AE,ARE,784,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.4400000570000002,Total,Units,%,Modelled,,,Total
+United Kingdom,GB,GBR,826,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.039999962,Female,Units,%,Modelled,,,Total
+United Kingdom,GB,GBR,826,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.0599999429999998,Male,Units,%,Modelled,,,Total
+United Kingdom,GB,GBR,826,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.559999943,Total,Units,%,Modelled,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.860000134,Female,Units,%,Modelled,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.260000229,Male,Units,%,Modelled,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,7.570000172,Total,Units,%,Modelled,,,Total
+United States,US,USA,840,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.9200000167,Female,Units,%,Modelled,,,Total
+United States,US,USA,840,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.679999948,Male,Units,%,Modelled,,,Total
+United States,US,USA,840,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.309999943,Total,Units,%,Modelled,,,Total
+Uruguay,UY,URY,858,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,0.8000000119,Female,Units,%,Modelled,,,Total
+Uruguay,UY,URY,858,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.769999981,Male,Units,%,Modelled,,,Total
+Uruguay,UY,URY,858,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.299999952,Total,Units,%,Modelled,,,Total
+Uzbekistan,UZ,UZB,860,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.99000001,Female,Units,%,Modelled,,,Total
+Uzbekistan,UZ,UZB,860,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.320000172,Male,Units,%,Modelled,,,Total
+Uzbekistan,UZ,UZB,860,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.680000067,Total,Units,%,Modelled,,,Total
+Vanuatu,VU,VUT,548,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,1.330000043,Female,Units,%,Modelled,,,Total
+Vanuatu,VU,VUT,548,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.069999933,Male,Units,%,Modelled,,,Total
+Vanuatu,VU,VUT,548,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.2300000190000002,Total,Units,%,Modelled,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.880000114,Female,Units,%,Modelled,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.1900000570000002,Male,Units,%,Modelled,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.529999971,Total,Units,%,Modelled,,,Total
+Vietnam,VN,VNM,704,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,9.350000381,Female,Units,%,Modelled,,,Total
+Vietnam,VN,VNM,704,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.75,Male,Units,%,Modelled,,,Total
+Vietnam,VN,VNM,704,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,10.07999992,Total,Units,%,Modelled,,,Total
+Yemen,YE,YEM,887,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,12.71000004,Female,Units,%,Modelled,,,Total
+Yemen,YE,YEM,887,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,16.26000023,Male,Units,%,Modelled,,,Total
+Yemen,YE,YEM,887,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,14.52000046,Total,Units,%,Modelled,,,Total
+Zambia,ZM,ZMB,894,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,3.49000001,Female,Units,%,Modelled,,,Total
+Zambia,ZM,ZMB,894,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.179999828,Male,Units,%,Modelled,,,Total
+Zambia,ZM,ZMB,894,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,4.329999924,Total,Units,%,Modelled,,,Total
+Zimbabwe,ZW,ZWE,716,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,2.49000001,Female,Units,%,Modelled,,,Total
+Zimbabwe,ZW,ZWE,716,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,8.729999542,Male,Units,%,Modelled,,,Total
+Zimbabwe,ZW,ZWE,716,"Percentage of thinness among children aged 5-19 years, BMI < -2 standard deviations below the median (crude estimate)",2022,5.579999924,Total,Units,%,Modelled,,,Total
